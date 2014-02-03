@@ -21,7 +21,7 @@
 				  </div>
 				  <div class="modal-body">
 				      <form class="form-signin" role="form">
-						<h2 class="form-signin-heading">Update your email address or password: </h2>
+						<h3 class="form-signin-heading">Update your email address or password: </h3>
 						<input type="text" class="form-control" placeholder="Email Address:" required autofocus>
 						<input type="password" class="form-control" placeholder="Password:" required autofocus>
 						<input type="password" class="form-control" placeholder="Repeat Password:" required autofocus>
