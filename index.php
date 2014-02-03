@@ -10,7 +10,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="/ICSLibrary/1.jpeg">
+          <img src="ICSLibrary/1.jpg">
           <div class="container">
             <div class="carousel-caption">
               <h1>Only the Best</h1>
@@ -21,7 +21,7 @@ manpower needed to carry out the information processing functions of private and
           </div>
         </div>
         <div class="item">
-          <img src="/ICSLibrary/2.jpeg">
+          <img src="ICSLibrary/2.jpg">
           <div class="container">
             <div class="carousel-caption">
               <h1>Technology and Nationalism</h1>
@@ -32,7 +32,7 @@ enhance locally produced computer products.</p>
           </div>
         </div>
         <div class="item">
-    			<img src="/ICSLibrary/3.jpeg">
+    			<img src="ICSLibrary/3.jpg">
     			<div class="container">
             <div class="carousel-caption">
               <h1>All for the country</h1>
@@ -42,7 +42,7 @@ enhance locally produced computer products.</p>
           </div>
         </div>
         <div class="item">
-          <img src="/ICSLibrary/4.jpeg">
+          <img src="ICSLibrary/4.jpg">
           <div class="container">
             <div class="carousel-caption">
               <h1>All for the country</h1>
@@ -74,13 +74,13 @@ enhance locally produced computer products.</p>
         </div><!-- /.col-lg-4 -->
 
 	<div class="col-lg-4">
-          <img style="width: 140px; height: 140px;" class="img-circle" alt="140x140" src="/dist/images/Opensign.jpg">
+          <img style="width: 140px; height: 140px;" class="img-circle" alt="140x140" src="dist/images/Opensign.jpg">
           <h2>Library Hours</h2>
           <p>Library is open every Mondays to Fridays, from 8am to 12nn and 1pm to 5pm.</p>
         </div><!-- /.col-lg-4 -->        
 
 	<div class="col-lg-4">
-          <img  style="width: 140px; height: 140px;" class="img-circle" alt="140x140" src="/dist/images/ICSlogo.jpg">
+          <img  style="width: 140px; height: 140px;" class="img-circle" alt="140x140" src="dist/images/ICSlogo.jpg">
           <h2>ICS Courses</h2>
           <p>Check out all the cool courses that Institute of Computer Science offers.</p>
           <p><a class="btn btn-default" href="http://ics.uplb.edu.ph/courses/ugrad" role="button">View details »</a></p>
@@ -91,4 +91,4 @@ enhance locally produced computer products.</p>
       <hr class="featurette-divider">
 
       <!-- /END THE FEATURETTES -->
-<?php include 'footer.php'; ?>
+<?php include 'home_footer.php'; ?>

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="http://getbootstrap.com/docs-assets/ico/favicon.png">
+    <link rel="favicon" href="dist/images/favico.png">
 
     <title>ICS-iLS</title>
 
@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><img src="dist/images/logowhite.png" height="30px"></a>
+          <a class="navbar-brand" href="index.php"><img src="dist/images/logowhite.png" height="30px"></a>
         </div>
         <div class="navbar-collapse collapse">
           <form class="navbar-form navbar-left" role="search">
